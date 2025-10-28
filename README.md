@@ -70,6 +70,16 @@ A step-by-step guide to install custom fonts on Samsung Galaxy devices running O
 - `samsung_custom_font_installer_lockscreen_fonts.jpg` - Screenshot showcase of custom font applied
 - `README.md` - This guide
 
+### 🎨 Pre-made Font APKs
+
+Ready-to-install font APKs created using the steps above:
+
+- `mosca_laroke_FlipFont.apk` - Mosca Laroke font
+- `CaptivsystmremixJRO7_FlipFont.apk` - Captiv Systm Remix JRO7 font
+- `PromenadeDeLaCroisetteRegular_FlipFont.apk` - Promenade De La Croisette font
+
+Download any of these APKs, transfer to your phone, install, and apply from lock screen customization!
+
 ## 🐛 Troubleshooting
 
 - **Installation Failed**: Ensure you've correctly renamed the font file and updated all instances in AndroidManifest.xml
